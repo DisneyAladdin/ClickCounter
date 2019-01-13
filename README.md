@@ -1,5 +1,5 @@
 # click_counter
-Click counter automatically counts the click on your computer.
+Click counter automatically counts click on your computer.
 
 
-<img src="https://github.com/shutokawabata0723/click_counter/blob/master/sample.gif" width="600px">
+<img src="https://github.com/shutokawabata0723/click_counter/blob/master/sample.gif" width="800px" height="600">
